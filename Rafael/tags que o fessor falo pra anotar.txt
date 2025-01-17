@@ -27,3 +27,17 @@ style type=
 
 }
 tag link
+
+
+VARIAVEIS
+root{
+-- nome do item: guardar cor ou algo relacionado
+}
+
+
+<picture>
+        <source srcset="./img/download.jpg" media="(min-width: 700px)">
+<picture>
+
+COMO TROCAR A FONTE
+font-family
