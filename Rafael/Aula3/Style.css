@@ -1,56 +1,56 @@
 /*
 Isso e style que estou ligando com o HTML
 */
-HTML{
+HTML {
     /*usado para alterar tamanho da fonte*/
     font-size: 16px;
 }
 
-ul{
+ul {
     font-weight: bold;
 }
 
-p{
+p {
     font-weight: bold;
 }
 
-h1{
+h1 {
     /*Text-align e usado para centralizar deixar na direta baixo esquerdo e abaixo*/
-    text-align:center;
+    text-align: center;
 
     /*color usado para trocar a cor*/
-    color:darkgoldenrod;
+    color: darkgoldenrod;
     /*background-color troca a cor do fundo*/
     background-image: linear-gradient(black, darkgoldenrod);
     /*adicina borda*/
     border: darkgoldenrod 2px solid;
     text-shadow: -5px 0px 3px white;
     margin: 1px;
-    padding:10px;
-    font-size:54px;
+    padding: 10px;
+    font-size: 54px;
     /*width troca largura*/
     /*height troca altura*/
 }
 
-h2{
+h2 {
     color: darkgoldenrod;
     background-color: black;
     border: darkgoldenrod 2px solid;
 }
 
-li{
+li {
     font-size: 18px;
 }
 
-a{
+a {
     color: darkgoldenrod;
     font-size: 1.10em;
 }
 
-p{
+p {
     font-size: 1.50rem
 }
 
-img{
-    width:300px ;
+img {
+    width: 300px;
 }
